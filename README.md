@@ -1,4 +1,2 @@
 # **MADHU SHIVA SAI KADIYAM**
-## I AM CURRENTLY PURSUING MY BTECH 4TH YEAR
-### AT ADITYA ENGINEERING COLLEGE,SURAMPALEM
-### IN THE DEPARTMENT OF CSE
+## Graduated with a degree in Computer Science and Engineering from Aditya Engineering College
